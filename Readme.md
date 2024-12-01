@@ -1,5 +1,8 @@
 # AoC solutions
 
+Every year [Advent of Code](https://adventofcode.com/) publishes 50 puzzles.
+In this repository I try to use a different programming language every year to solve them.
+
 | Year | Language | Progress |
 |------|----------|----------|
 | 2015 | TBD      | 0/50     |
