@@ -1,4 +1,4 @@
-# Advent of Code
+# AoC solutions
 
 | Year | Language | Progress |
 |------|----------|----------|
