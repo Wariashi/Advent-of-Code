@@ -14,4 +14,4 @@ In this repository I try to use a different programming language every year to s
 | 2021 | TBD      | 0/50     |
 | 2022 | Java     | 0/50     |
 | 2023 | Kotlin   | 0/50     |
-| 2024 | Python   | 1/50     |
+| 2024 | Python   | 2/50     |
