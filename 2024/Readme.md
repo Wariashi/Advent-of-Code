@@ -6,7 +6,7 @@ This project uses Python 3.13 as this was the latest version in december 2024.
 |-----|----------|----------|
 | 1   | ✅        | ✅        |
 | 2   | ✅        | ✅        |
-| 3   | ✅        | ❌        |
+| 3   | ✅        | ✅        |
 | 4   | ❌        | ❌        |
 | 5   | ❌        | ❌        |
 | 6   | ❌        | ❌        |
