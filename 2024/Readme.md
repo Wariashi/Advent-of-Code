@@ -8,7 +8,7 @@ This project uses Python 3.13 as this was the latest version in december 2024.
 | 2   | ✅        | ✅        |
 | 3   | ✅        | ✅        |
 | 4   | ✅        | ✅        |
-| 5   | ❌        | ❌        |
+| 5   | ✅        | ❌        |
 | 6   | ❌        | ❌        |
 | 7   | ❌        | ❌        |
 | 8   | ❌        | ❌        |
