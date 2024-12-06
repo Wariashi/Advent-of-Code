@@ -5,6 +5,7 @@ class Area:
     tiles = []
 
     def __init__(self, filename):
+        self.tiles.clear()
         with open(filename) as file:
             lines = file.readlines()
         for line in lines:
