@@ -1,4 +1,4 @@
-# 2024
+# 2024 - Python
 
 This project uses Python 3.13 as this was the latest version in december 2024.
 

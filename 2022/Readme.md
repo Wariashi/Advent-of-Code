@@ -1,4 +1,4 @@
-# 2022
+# 2022 - Java
 
 This project uses Java 17 as this was the latest LTS version in december 2022.
 
