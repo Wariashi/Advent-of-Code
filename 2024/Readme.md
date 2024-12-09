@@ -4,6 +4,8 @@
 
 This project uses Python 3.13 as this was the latest version in december 2024.
 
+## Progress
+
 | Day | Puzzle 1 | Puzzle 2 |
 |-----|----------|----------|
 | 1   | ✅        | ✅        |
