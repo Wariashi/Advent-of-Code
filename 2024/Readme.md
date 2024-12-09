@@ -1,5 +1,7 @@
 # 2024 - Python
 
+![Static Badge](https://img.shields.io/badge/Python%20version-3.13-3572A5)
+
 This project uses Python 3.13 as this was the latest version in december 2024.
 
 | Day | Puzzle 1 | Puzzle 2 |

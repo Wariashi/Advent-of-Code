@@ -1,5 +1,7 @@
 # 2022 - Java
 
+![Static Badge](https://img.shields.io/badge/Java%20version-17-b07219)
+
 This project uses Java 17 as this was the latest LTS version in december 2022.
 
 | Day | Puzzle 1 | Puzzle 2 |
