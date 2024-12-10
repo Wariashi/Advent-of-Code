@@ -17,7 +17,7 @@ This project uses Python 3.13 as this was the latest version in december 2024.
 | 7   | ✅        | ✅        |
 | 8   | ✅        | ✅        |
 | 9   | ✅        | ✅        |
-| 10  | ❌        | ❌        |
+| 10  | ✅        | ❌        |
 | 11  | ❌        | ❌        |
 | 12  | ❌        | ❌        |
 | 13  | ❌        | ❌        |
