@@ -5,7 +5,7 @@ In this repository I try to use a different programming language every year to s
 
 | Year                   | Language | Solved |
 |------------------------|----------|--------|
-| [2024](2024/Readme.md) | Python   | 34     |
+| [2024](2024/Readme.md) | Python   | 35     |
 | 2023                   | Kotlin   | 0      |
 | [2022](2022/Readme.md) | Java     | 45     |
 | 2021                   | TBD      | 0      |
