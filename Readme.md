@@ -1,4 +1,4 @@
-# AoC solutions
+# Waris solutions for Advent of Code
 
 Every year [Advent of Code](https://adventofcode.com/) publishes 50 puzzles.
 In this repository I try to use a different programming language every year to solve them.
