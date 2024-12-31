@@ -2,7 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Java%20version-17-b07219)
 
-This project uses Java 17 as this was the latest LTS version in december 2022.
+2022 was the first year I tried to solve the puzzles of Advent of Code.
+At that time I already knew Java quite well, so it was just about solving the puzzles.
 
 ## Progress
 
@@ -33,3 +34,21 @@ This project uses Java 17 as this was the latest LTS version in december 2022.
 | 23  | ✅        | ✅        |
 | 24  | ✅        | ✅        |
 | 25  | ✅        | ❌        |
+
+## Setup
+
+First, you need to install a JDK with version 17, as this was the latest version in december 2022.
+Each folder (`day01`, `day02`, ...) contains at least two files called `Part1.java` and `Part2.java`.
+To run these, create a new file called `input` in the same folder and fill it with the contents of the given data (your
+puzzle input).
+Run these commands inside the folder to start the programs for part 1 and 2 of the puzzles of day 1:
+
+```bash
+javac Part1.java
+java de.wariashi.aoc.day01.Part1
+
+javac Part2.java
+java de.wariashi.aoc.day01.Part2
+```
+
+(Or just click on the play button in your favorite IDE. It's probably easier.)
