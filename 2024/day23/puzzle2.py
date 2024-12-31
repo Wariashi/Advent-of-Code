@@ -78,7 +78,7 @@ def main():
 
     mesh = meshes[0]
     password = ",".join(mesh)
-    print("The password ist: {}".format(password))
+    print("The password is: {}".format(password))
 
 
 if __name__ == '__main__':
