@@ -2,6 +2,10 @@
 
 ![Static Badge](https://img.shields.io/badge/Python%20version-3.13-3572A5)
 
+2024 was the first year I tried to learn a new programming language with Advent of Code.
+So here you can see me discover functions on day 2, classes, enums and imports on day 6, the existence of a main
+function on day 8 and eventually numpy on day 18.
+
 ## Progress
 
 | Day | Puzzle 1 | Puzzle 2 |
