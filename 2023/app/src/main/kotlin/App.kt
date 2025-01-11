@@ -4,8 +4,10 @@ import kotlin.system.exitProcess
 
 fun main() {
     val day01 = Day01()
+    val url01 = getInputUrl("day01")
     println("Day 1:")
-    println("Sum of calibration values: " + day01.getResult1(getInputUrl("day01")))
+    println("Sum of calibration values (part 1): " + day01.getResult1(url01))
+    println("Sum of calibration values (part 2): " + day01.getResult2(url01))
     println("")
 }
 

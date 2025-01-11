@@ -6,4 +6,4 @@ build
 
 # Ignore copyrighted files
 app/src/main/resources/*/input
-app/src/test/resources/*/example
+app/src/test/resources/*/example*

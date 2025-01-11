@@ -10,7 +10,7 @@ Many solutions will probably even break if you change the input slightly.
 | Year                   | Language | Solved |
 |------------------------|----------|--------|
 | [2024](2024/Readme.md) | Python   | 44     |
-| [2023](2023/Readme.md) | Kotlin   | 1      |
+| [2023](2023/Readme.md) | Kotlin   | 2      |
 | [2022](2022/Readme.md) | Java     | 45     |
 | 2021                   | TBD      | 0      |
 | 2020                   | TBD      | 0      |
