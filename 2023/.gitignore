@@ -3,3 +3,7 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignore copyrighted files
+app/src/main/resources/*/input
+app/src/test/resources/*/example
