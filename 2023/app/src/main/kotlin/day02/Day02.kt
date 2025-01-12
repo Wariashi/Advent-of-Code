@@ -19,6 +19,20 @@ class Day02 {
         return sumOfValidGameIds
     }
 
+    fun getResult2(puzzleInput: URL): Int {
+        val lines = puzzleInput.readText().lines()
+
+        var sumOfPowers = 0
+        for (line in lines) {
+            if (line.isNotEmpty()) {
+                val game = getGame(line)
+                sumOfPowers += game.getPower()
+            }
+        }
+
+        return sumOfPowers
+    }
+
     private fun getGame(line: String): Game {
         val parts = line.split(": ")
         val gameId = parts[0].substring(5).toInt()

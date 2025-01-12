@@ -12,4 +12,12 @@ class Day02Test {
         assertNotNull(url, "Example file not found. See Readme for more details.")
         assertEquals(8, day02.getResult1(url))
     }
+
+    @Test
+    fun testPuzzle2() {
+        val day02 = Day02()
+        val url = object {}.javaClass.getResource("example")
+        assertNotNull(url, "Example file not found. See Readme for more details.")
+        assertEquals(2286, day02.getResult2(url))
+    }
 }

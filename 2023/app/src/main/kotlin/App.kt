@@ -15,6 +15,7 @@ fun main() {
     val url02 = getInputUrl("day02")
     println("Day 2:")
     println("Sum of game IDs: " + day02.getResult1(url02))
+    println("Sum of powers: " + day02.getResult2(url02))
     println("")
 }
 
