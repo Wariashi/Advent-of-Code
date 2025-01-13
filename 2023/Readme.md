@@ -33,3 +33,25 @@
 | 23  | ❌        | ❌        |
 | 24  | ❌        | ❌        |
 | 25  | ❌        | ❌        |
+
+## Setup
+
+First, you need to install Gradle 8.5 as this was the latest version in december 2023.
+To run the program, you also need to create new files with the given data (your puzzle input) for each day.
+So for the first day create the file `app/src/main/resources/day01/input` and so on.
+Run this command to start the program for all puzzles:
+
+```bash
+gradle run
+```
+
+If you also want to run the tests, you need to create new files with the example data for each day.
+The file names depend on whether the example is the same for part 1 and 2.
+So for the first day create the files `app/src/main/resources/day01/example_1` and
+`app/src/main/resources/day01/example2`.
+For the second day create the file `app/src/main/resources/day01/example` and so on.
+Run this command to start the tests for all puzzles:
+
+```bash
+gradle test
+```
